@@ -1,0 +1,22 @@
+{
+  "name": "wordkata",
+  "version": "1.0.0",
+  "description": "beautiful things will happe3n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telekosmos/wordkata.git"
+  },
+  "author": "llo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telekosmos/wordkata/issues"
+  },
+  "homepage": "https://github.com/telekosmos/wordkata#readme",
+  "dependencies": {
+    "oxford-dictionary-api": "^1.0.1"
+  }
+}
